@@ -1,5 +1,5 @@
 {
-    "name": "Kayzen-Bot",
+    "name": "Testing",
     "version": "1.0.0",
     "description": "WhatsApp Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Kayzen",
+    "author": "rizzz",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
